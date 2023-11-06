@@ -1,0 +1,170 @@
+[
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa descartes acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial.",
+        "respuesta": "Se enfoca en la importancia de la claridad",
+        "incorrecta1": "Le da lo mismo",
+        "incorrecta2": "Piensa que la educacion disruptiva no sirve",
+        "incorrecta3": "Le gustan las empanadas",
+        "imagen": "https://www.elviejotopo.com/wp-content/uploads/2019/03/Rene-Descartes.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Aristóteles acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Piensa que la transparencia es esencial para garantizar decisiones éticas, justas y democráticas",
+        "incorrecta1": "Que no hay transparencia",
+        "incorrecta2": "Que todo es un engaño",
+        "incorrecta3": "Que la vida es una",
+        "imagen": "https://pymstatic.com/86368/conversions/aristoteles-wide_webp.webp",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Karl Max acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": " El tendría una perspectiva crítica hacia el capitalismo y la concentración de poder, abogando por la democratización, la regulación estatal y la participación pública para garantizar que la tecnología sirva a los intereses de toda la sociedad en lugar de a una élite",
+        "incorrecta1": "Que el socialismo solucionará el hambre en el mundo",
+        "incorrecta2": "Que el capitalismo es una mentira",
+        "incorrecta3": "Que Messi no merecía el balon de oro",
+        "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Friedrich Nietzsche acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "El enfatizaría en la importancia del individualismo y la autenticidad en la toma de decisiones",
+        "incorrecta1": "Ni idea",
+        "incorrecta2": "Apoyaría esta cuestión",
+        "incorrecta3": "No apoyaría esta cuestión",
+        "imagen": "https://filco.es/uploads/2018/03/section-one-2-e1525769118656.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Michel Foucaulte acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Tendría una perspectiva crítica, cuestionando las estructuras de poder y las implicaciones éticas, y promoviendo el empoderamiento y la resistencia de los individuos en un mundo cada vez más permeado por la tecnología de IA",
+        "incorrecta1": "No se opondría",
+        "incorrecta2": "Le daría lo mismo",
+        "incorrecta3": "Tendría una postura neutra",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/78/685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Max Weber acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Tendría una perspectiva de la autoridad, la legitimidad, la burocracia y el poder en la sociedad moderna.",
+        "incorrecta1": "No apoyaría la inteligencia artificial",
+        "incorrecta2": "Si apoyaría la inteligencia artificial",
+        "incorrecta3": "Le daría lo mismo",
+        "imagen": "https://www.vision.org/sites/default/files/img/2004fall_max-weber-a-compulsion-for-work.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Platón acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Su enfoque se centraría en la búsqueda de la verdad, la ética, la supervisión humana y la formación para abordar este desafío de manera coherente con sus valores filosóficos.",
+        "incorrecta1": "No sabría porque no es de la época",
+        "incorrecta2": "Plantearía un modelo de control",
+        "incorrecta3": "Plantearía la eliminacíon de la inteligencia artificial",
+        "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "Que piensa Kant acerca de  la transparencia de las herramientas que toman decisiones por medio de la inteligencia artificial",
+        "respuesta": "Defendería la transparencia y la justicia en la toma de decisiones algorítmicas para garantizar que se respeten los valores éticos fundamentales.",
+        "incorrecta1": "Pensaría que es incoherente que una maquina piense por nosotros",
+        "incorrecta2": "Que es ridículo que los seres humanos no puedan pensar solos",
+        "incorrecta3": "Estaría en contra",
+        "imagen": "https://fotos.perfil.com/2020/06/02/trim/987/555/immanuel-kant-20200602-965685.jpg?webp"
+    }
+    ,
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Karl Max  respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Tendría una perspectiva crítica hacia el capitalismo y su capacidad para utilizar la tecnología en beneficio de las élites en detrimento de las masas trabajadoras",
+            "incorrecta1": "Estaría completamente a favor",
+            "incorrecta2": "Haría lo que fuese para eliminar la inteligencia artificial",
+            "incorrecta3": "Propondría una inteligencia artificial gratis para todos",
+            "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Platon respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "El propondría que  la verdad y la sabiduría eran valores fundamentales, y promovía la búsqueda de la verdad a través de la razón y la reflexión.",
+            "incorrecta1": "No estaría a favor",
+            "incorrecta2": "Pensaría en eliminar la inteligencia artificial",
+            "incorrecta3": "Se haría experto en la materia y la acceptaria",
+            "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Sócrates respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Habría defendido la importancia de la verdad, la ética y la reflexión crítica en un mundo donde la información visual puede ser manipulada de manera tan convincente",
+            "incorrecta1": "Habría estado de acuerdo",
+            "incorrecta2": "No hubiese opinado al respecto",
+            "incorrecta3": "Le hubiese dado lo mismo",
+            "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Sócrates respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Habría defendido la importancia de la verdad, la ética y la reflexión crítica en un mundo donde la información visual puede ser manipulada de manera tan convincente",
+            "incorrecta1": "Habría estado de acuerdo",
+            "incorrecta2": "No hubiese opinado al respecto",
+            "incorrecta3": "Le hubiese dado lo mismo",
+            "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Kant respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Condería la creación y difusión de contenido falso como inmoral, ya que socava la universalización de una regla moral y puede ser perjudicial para la dignidad de las personas",
+            "incorrecta1": "No lo sé",
+            "incorrecta2": "Hubiese pensado otras alternativas",
+            "incorrecta3": "Hubiese buscado la prohibición de esta tecnología",
+            "imagen": "https://fotos.perfil.com/2020/06/02/trim/987/555/immanuel-kant-20200602-965685.jpg?webp"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Descartes respecto a la regeneración de imágenes y videos falsos con IA´s?",
+            "respuesta": "Hubiese aplicado sus principios filosóficos de duda metódica y uso de la razón para abordar la cuestión y promover un enfoque escéptico y crítico hacia la información visual generada por tecnología",
+            "incorrecta1": "Estaría a favor",
+            "incorrecta2": "Se habria molestado mucho",
+            "incorrecta3": "Estaria de acuerdo",
+            "imagen": "https://www.elviejotopo.com/wp-content/uploads/2019/03/Rene-Descartes.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Karl MAx respecto la inclusión de robots en fábricas y en la industria?",
+            "respuesta": "El habría abordado la inclusión de robots en fábricas e industrias desde su perspectiva crítica de las relaciones capitalistas y la propiedad de los medios de producción. Habría enfocado su atención en la distribución de los beneficios y en la protección de los derechos de los trabajadores en un mundo cada vez más automatizado",
+            "incorrecta1": "Vería otras alternativas",
+            "incorrecta2": "Organizaría una revuelta de trabajadores",
+            "incorrecta3": "Estaria de acuerdo",
+            "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Socrates respecto la inclusión de robots en fábricas y en la industria?",
+            "respuesta": "El hubiese alentado a las personas a cuestionar y reflexionar sobre el uso de la tecnología en la industria, instándolas a considerar las implicaciones éticas y morales de sus decisiones.",
+            "incorrecta1": "No lo se",
+            "incorrecta2": "Vería esto como una amenaza a la humanidad",
+            "incorrecta3": "Estaria de acuerdo",
+            "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Platón respecto la inclusión de robots en fábricas y en la industria?",
+            "respuesta": "habría abordado el tema desde la perspectiva de la utilidad y la justicia en la organización de la sociedad, así como las implicaciones en la formación de ciudadanos virtuosos",
+            "incorrecta1": "No lo se",
+            "incorrecta2": "Alertaría al mundo sobre una posible revelión de las máquinas",
+            "incorrecta3": "Estaria de acuerdo",
+            "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
+        },
+        {
+            "categoria": "Filosofía e Inteligencia artificial",
+            "pregunta": "¿Que pensaría Michel Foucault respecto la inclusión de robots en fábricas y en la industria?",
+            "respuesta": "Podría haber abordado la inclusión de robots en fábricas e industrias desde la perspectiva de cómo esta tecnología influye en el poder, la disciplina y la vigilancia en el entorno laboral, así como en las relaciones de poder entre los diferentes actores involucrados. Su enfoque se centraría en comprender cómo esta introducción de tecnología afecta a la experiencia de los trabajadores y las dinámicas de poder en la sociedad.",
+            "incorrecta1": "Hubiese apoyado la iniciativa",
+            "incorrecta2": "Se mantendría neutral",
+            "incorrecta3": "No opinaría",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg/375px-685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg"
+        }
+    
+    
+]
